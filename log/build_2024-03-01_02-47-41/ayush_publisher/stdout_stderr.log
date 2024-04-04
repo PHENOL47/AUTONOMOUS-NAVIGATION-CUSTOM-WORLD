@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/ayush_publisher/ayush_publisher.egg-info/PKG-INFO
+writing dependency_links to ../../build/ayush_publisher/ayush_publisher.egg-info/dependency_links.txt
+writing entry points to ../../build/ayush_publisher/ayush_publisher.egg-info/entry_points.txt
+writing requirements to ../../build/ayush_publisher/ayush_publisher.egg-info/requires.txt
+writing top-level names to ../../build/ayush_publisher/ayush_publisher.egg-info/top_level.txt
+reading manifest file '../../build/ayush_publisher/ayush_publisher.egg-info/SOURCES.txt'
+writing manifest file '../../build/ayush_publisher/ayush_publisher.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ayush_publisher/simple_publisher.py -> /home/ayush/ayush_ros/build/ayush_publisher/build/lib/ayush_publisher
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+copying /home/ayush/ayush_ros/build/ayush_publisher/build/lib/ayush_publisher/simple_publisher.py -> /home/ayush/ayush_ros/install/ayush_publisher/lib/python3.10/site-packages/ayush_publisher
+byte-compiling /home/ayush/ayush_ros/install/ayush_publisher/lib/python3.10/site-packages/ayush_publisher/simple_publisher.py to simple_publisher.cpython-310.pyc
+running install_data
+copying package.xml -> /home/ayush/ayush_ros/install/ayush_publisher/share/ayush_publisher
+running install_egg_info
+removing '/home/ayush/ayush_ros/install/ayush_publisher/lib/python3.10/site-packages/ayush_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ayush_publisher/ayush_publisher.egg-info to /home/ayush/ayush_ros/install/ayush_publisher/lib/python3.10/site-packages/ayush_publisher-0.0.0-py3.10.egg-info
+running install_scripts
+Installing simple_publisher script to /home/ayush/ayush_ros/install/ayush_publisher/lib/ayush_publisher
+writing list of installed files to '/home/ayush/ayush_ros/build/ayush_publisher/install.log'

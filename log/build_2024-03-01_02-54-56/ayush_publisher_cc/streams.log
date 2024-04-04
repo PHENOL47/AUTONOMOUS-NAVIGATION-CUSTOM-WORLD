@@ -1,0 +1,2 @@
+[0.507s] Invoking command in '/home/ayush/ayush_ros/build/ayush_publisher_cc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayush/ayush_ros/build/ayush_publisher_cc -- -j12 -l12
+[0.555s] Invoked command in '/home/ayush/ayush_ros/build/ayush_publisher_cc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayush/ayush_ros/build/ayush_publisher_cc -- -j12 -l12

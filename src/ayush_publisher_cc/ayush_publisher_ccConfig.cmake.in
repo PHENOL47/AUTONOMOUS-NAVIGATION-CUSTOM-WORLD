@@ -1,0 +1,14 @@
+# - Config file for the ayush_publisher_cc package
+# It defines the following variables
+#  ayush_publisher_cc_INCLUDE_DIRS - include directories for FooBar
+#  ayush_publisher_cc_LIBRARIES    - libraries to link against
+#  ayush_publisher_cc_EXECUTABLE   - the bar executable
+
+set(ayush_publisher_cc_INCLUDE_DIRS "@CONF_INCLUDE_DIRS@")
+
+# Our library dependencies (contains definitions for IMPORTED targets)
+include("${ayush_publisher_cc_DIR}/export_ayush_publisher_cc.cmake")
+
+# These are IMPORTED targets created by ayush_publisher_ccTargets.cmake
+
+

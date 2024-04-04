@@ -1,0 +1,2 @@
+/home/ayush/ayush_ros/build/ayush_publisher_cc/CMakeFiles/edit_cache.dir
+/home/ayush/ayush_ros/build/ayush_publisher_cc/CMakeFiles/rebuild_cache.dir

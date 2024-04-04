@@ -1,0 +1,4 @@
+[console_scripts]
+simple_publisher = ayush_publisher.simple_publisher:main
+simple_subscriber = ayush_publisher.simple_subscriber:main
+
